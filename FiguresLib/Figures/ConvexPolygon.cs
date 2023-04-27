@@ -1,11 +1,5 @@
 ﻿using FiguresLib.Interfaces;
 using FiguresLib.LibMath;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Point = FiguresLib.LibMath.PointD;
 
 namespace FiguresLib.Figures

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПК\\source\\repos\\FiguresLib\\FiguresLib\\FiguresLib.csproj",
+      "projectUniqueName": "D:\\WorkTests\\FigureLib\\FiguresLib\\FiguresLib.csproj",
       "projectName": "FiguresLib",
-      "projectPath": "C:\\Users\\ПК\\source\\repos\\FiguresLib\\FiguresLib\\FiguresLib.csproj",
+      "projectPath": "D:\\WorkTests\\FigureLib\\FiguresLib\\FiguresLib.csproj",
       "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПК\\source\\repos\\FiguresLib\\FiguresLib\\obj\\",
+      "outputPath": "D:\\WorkTests\\FigureLib\\FiguresLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUTv5pmHYJIt7F2iri419qMWRs7d4wClmQw3jD8rZ00ScK5EtLQugrkdHwO4sB71lwx+lx5Q1abMV5nOb3haIA==",
+  "dgSpecHash": "neHTGUKiYvzYvOORq3NfanqP0Cz32Lw5iFK8LtT4vAgpbSa0VkPg/1j1hojdtOF9YaI3b5sq9Uf0xy4kSwI3uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ПК\\source\\repos\\FiguresLib\\FugureLib.Tests\\FugureLib.Tests.csproj",
+  "projectFilePath": "D:\\WorkTests\\FigureLib\\FugureLib.Tests\\FugureLib.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ПК\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\ПК\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

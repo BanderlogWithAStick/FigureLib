@@ -1,9 +1,4 @@
 ﻿using FiguresLib.Figures;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Point = FiguresLib.LibMath.PointD;
 
 namespace FugureLib.Tests.Figures
