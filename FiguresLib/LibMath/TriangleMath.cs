@@ -22,7 +22,7 @@ namespace FiguresLib.LibMath
             double bl = Point.P2P(b, c);
             double cl = Point.P2P(c, a);
             double pp = (al + bl + cl) / 2;
-            return Math.Round(Math.Sqrt(pp * (pp - al) * (pp - bl) * (pp - cl)), 6);
+            return Math.Sqrt(pp * (pp - al) * (pp - bl) * (pp - cl));
         }
     }
 }

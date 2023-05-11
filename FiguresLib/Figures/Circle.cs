@@ -56,7 +56,7 @@ namespace FiguresLib.Figures
         /// <returns>Площадь</returns>
         public override double GetSquare()
         {
-            return Math.Round(Math.PI * Math.Pow(Radius, 2), 6);
+            return Math.PI * Math.Pow(Radius, 2);
         }
     }
 }
